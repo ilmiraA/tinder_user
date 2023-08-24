@@ -2,3 +2,37 @@
     padding: 0;
     margin: 0;
 }
+
+html{
+    background-image: url(../img/vxod1.png);
+    background-size: cover;
+    height: 100%;
+}
+
+p{
+    font-size: 120%;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#send{
+    color: #11002c;
+    font-size: 140%;
+    margin-top: 10%;
+    margin-left: 4%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.LogIn{
+    width: 90%;
+    margin-top: 10%;
+    border-width: 5px;
+    border-radius: 3px;
+    border-color: #11002c;
+    margin-left: 5%;
+}
+
+.div{
+    padding-top: 20px;
+    display: inline-flex;
+}
