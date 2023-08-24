@@ -19,7 +19,7 @@ p{
     color: #11002c;
     font-size: 140%;
     margin-top: 10%;
-    margin-left: 4%;
+    margin-left: 20%;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -34,5 +34,10 @@ p{
 
 .div{
     padding-top: 20px;
-    display: inline-flex;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.p{
+    padding-top: 3ox;
 }
